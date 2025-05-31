@@ -1,0 +1,101 @@
+{
+  "Delhi,IN": {
+    "data": {
+      "city": "Delhi",
+      "temp": "36.55°C",
+      "condition": "clear sky",
+      "wind": "1.55 m/s"
+    },
+    "timestamp": 1748678060679
+  },
+  "Ambala": {
+    "data": {
+      "city": "Ambāla",
+      "temp": "31.66°C",
+      "condition": "broken clouds",
+      "wind": "5.99 m/s"
+    },
+    "timestamp": 1748712058159
+  },
+  "London": {
+    "data": {
+      "city": "London",
+      "temp": "18.98°C",
+      "condition": "broken clouds",
+      "wind": "5.64 m/s"
+    },
+    "timestamp": 1748712067708
+  },
+  "Sydney": {
+    "data": {
+      "city": "Sydney",
+      "temp": "10.37°C",
+      "condition": "clear sky",
+      "wind": "2.84 m/s"
+    },
+    "timestamp": 1748712079071
+  },
+  "Dublin": {
+    "data": {
+      "city": "Dublin",
+      "temp": "24.65°C",
+      "condition": "clear sky",
+      "wind": "1.99 m/s"
+    },
+    "timestamp": 1748712089827
+  },
+  "Pune": {
+    "data": {
+      "city": "Pune",
+      "temp": "25.34°C",
+      "condition": "overcast clouds",
+      "wind": "3.85 m/s"
+    },
+    "timestamp": 1748712097371
+  },
+  "New": {
+    "data": {
+      "city": "New",
+      "temp": "26.03°C",
+      "condition": "light rain",
+      "wind": "1.6 m/s"
+    },
+    "timestamp": 1748712118254
+  },
+  "New York": {
+    "data": {
+      "city": "New York",
+      "temp": "18.77°C",
+      "condition": "overcast clouds",
+      "wind": "7.66 m/s"
+    },
+    "timestamp": 1748712147462
+  },
+  "Jaipur": {
+    "data": {
+      "city": "Jaipur",
+      "temp": "34.91°C",
+      "condition": "overcast clouds",
+      "wind": "5.16 m/s"
+    },
+    "timestamp": 1748712169939
+  },
+  "Bagru": {
+    "data": {
+      "city": "Bagru",
+      "temp": "34.78°C",
+      "condition": "broken clouds",
+      "wind": "7.41 m/s"
+    },
+    "timestamp": 1748712181981
+  },
+  "Cape Town": {
+    "data": {
+      "city": "Cape Town",
+      "temp": "15.19°C",
+      "condition": "scattered clouds",
+      "wind": "2.76 m/s"
+    },
+    "timestamp": 1748712196981
+  }
+}
